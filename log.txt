@@ -1,0 +1,6 @@
+UserID: 6161481092 | Time: 2024-06-03 16:46:22.283348 | Command: /bgmi | Target: 20.204.39.91 | Port: 24833 | Time: 180
+Username: @Hunterxup12
+Target: 20.204.39.91
+Port: 24833
+Time: 180
+
